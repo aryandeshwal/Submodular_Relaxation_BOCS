@@ -1,7 +1,7 @@
 ## Scalable Combinatorial Bayesian Optimization with Tractable Statistical models
 
 
-This repository contains the source code for the paper "Scalable Combinatorial Bayesian Optimization with Tractable Statistical models". In this paper, we employ the submodular relaxation based optimization approach for Binary Quadratic Programs proposed in [Ito and Fujimaki](https://papers.nips.cc/paper/6301-large-scale-price-optimization-via-network-flow) to improve the computational-efficiency and accuracy of solving acquisition function optimization (AFO) problems for [BOCS],(https://arxiv.org/abs/1806.08838) which is a state-of-the-art method for black-box optimization of combinatorial input spaces. The repository builds upon the [source code](https://github.com/baptistar/BOCS) provided by the BOCS authors. 
+This repository contains the source code for the paper "[Scalable Combinatorial Bayesian Optimization with Tractable Statistical models](https://arxiv.org/abs/2008.08177)". In this paper, we employ the submodular relaxation based optimization approach for Binary Quadratic Programs proposed in [Ito and Fujimaki](https://papers.nips.cc/paper/6301-large-scale-price-optimization-via-network-flow) to improve the computational-efficiency and accuracy of solving acquisition function optimization (AFO) problems for [BOCS],(https://arxiv.org/abs/1806.08838) which is a state-of-the-art method for black-box optimization of combinatorial input spaces. The repository builds upon the [source code](https://github.com/baptistar/BOCS) provided by the BOCS authors. 
 
 
 
