@@ -14,3 +14,14 @@ The code is implemented in Python and requires the following libraries for diffe
 ### Benchmarks
 
 There are 3 benchmarks provided in the files named example_contamination.py, example_ising.py, and example_bqp.py. They can be run on command line via python 'name_of_the_file'. Most of the code is self-contained and documented. Please e-mail at aryan.deshwal@wsu.edu if you have any issue. 
+
+### Citation
+If you find this code useful, please cite our paper:
+@misc{deshwal2020scalable,
+    title={Scalable Combinatorial Bayesian Optimization with Tractable Statistical models},
+    author={Aryan Deshwal and Syrine Belakaria and Janardhan Rao Doppa},
+    year={2020},
+    eprint={2008.08177},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}
