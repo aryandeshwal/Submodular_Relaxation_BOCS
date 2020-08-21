@@ -24,5 +24,5 @@ If you find this code useful, please cite our paper:
     year={2020},  
     eprint={2008.08177},  
     archivePrefix={arXiv},  
-    primaryClass={cs.LG}. 
+    primaryClass={cs.LG}.   
 }
