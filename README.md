@@ -17,11 +17,12 @@ There are 3 benchmarks provided in the files named example_contamination.py, exa
 
 ### Citation
 If you find this code useful, please cite our paper:
-@misc{deshwal2020scalable,
-    title={Scalable Combinatorial Bayesian Optimization with Tractable Statistical models},
-    author={Aryan Deshwal and Syrine Belakaria and Janardhan Rao Doppa},
-    year={2020},
-    eprint={2008.08177},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
+
+@misc{deshwal2020scalable,  
+    title={Scalable Combinatorial Bayesian Optimization with Tractable Statistical models},  
+    author={Aryan Deshwal and Syrine Belakaria and Janardhan Rao Doppa},  
+    year={2020},  
+    eprint={2008.08177},  
+    archivePrefix={arXiv},  
+    primaryClass={cs.LG}. 
 }
